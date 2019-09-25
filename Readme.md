@@ -1,5 +1,5 @@
 
-<h1><center>Prosper Loan Data Analysis</h1>
+<h1><center>Prosper Loan Data Analysis using Python</h1>
 
 <h1> Installations </h1>
 
