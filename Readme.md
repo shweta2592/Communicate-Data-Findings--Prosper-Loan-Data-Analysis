@@ -30,7 +30,7 @@ After analysis of different variables, some of the key observations were :
 -  The BorrowerAPR(average) was at it's peak in the year 2011 and reduced to 18% in 2014(the lowest on an average).
 - For High Current Delinquency accounts, the BorrowerAPR range between 30 to 35%.
 
-<h2> Key Insights for Presentation
+<h2> Key Insights for Presentation </h2>
 
 Histograms were created for numerical continuous variables and bar charts for categorical types. The histograms created for BorrowerAPR helped determine the distribution of the variable.
 After exploring all the possible combinations with BorrowerAPR observed the below:
