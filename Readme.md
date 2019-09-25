@@ -1,7 +1,7 @@
 
-<h1><center>Prosper Loan Data Analysis
+<h1><center>Prosper Loan Data Analysis</h1>
 
-<h1> Installations
+<h1> Installations </h1>
 
 - Python 3
 - Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks.
@@ -10,7 +10,7 @@
 - Matplotlib
 - Seaborn
 
-<h1> Project
+<h1> Project </h1>
 
 The project is done on a dataset given by Prosper,which is America's first marketplace lending platform with over $7 billion in funded loans.This dataset consists of around 113937 records and 61 columns. IT consists of some main information like 'BorrowerAPR','EmploymentStatus,occupation,ProsperScore,ProsperRating,Homeowner,AvailableCredit,Delinquencies etc.
 
