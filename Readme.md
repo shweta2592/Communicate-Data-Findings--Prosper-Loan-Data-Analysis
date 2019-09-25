@@ -20,7 +20,7 @@ The main aim of our project is to establish a relarionship between the variables
 - Bivariate Visualizations
 - Multivariate Visualizations
 
-<h2> Summary of Findings
+<h2> Summary of Findings </h2>
 
 After analysis of different variables, some of the key observations were :
 
